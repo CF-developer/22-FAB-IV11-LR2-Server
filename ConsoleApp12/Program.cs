@@ -9,7 +9,7 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace ConsoleApp12
 {
-    internal class Program
+    internal class Server
     {
         public static string SpaceMethod(string text) 
         {
@@ -90,11 +90,6 @@ namespace ConsoleApp12
             {
                 Console.ReadLine();
             }
-
-
-           
-
-
         }
     }
 }
